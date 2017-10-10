@@ -17,7 +17,7 @@ After 3 weeks, you will:
 This is the second course of the Deep Learning Specialization.
 
 ## What's inside:
-1. Programming assignment of Week 1: Initialization.ipynb, Regularization.ipynb, Gradient+Checking.ipynb
-1. Programming assignment of Week 2: Optimization+methods.ipynb
-1. Programming assignment of Week 3: Tensorflow+Tutorial.ipynb
+1. Week 1 Programming assignment: Initialization.ipynb, Regularization.ipynb, Gradient+Checking.ipynb
+1. Week 2 Programming assignment: Optimization+methods.ipynb
+1. Week 3 Programming assignment: Tensorflow+Tutorial.ipynb
 1. Course Certificate: Coursera FQ5ZWF6MU33S.pdf
