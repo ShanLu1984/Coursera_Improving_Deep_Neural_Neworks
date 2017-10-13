@@ -19,5 +19,5 @@ This is the second course of the Deep Learning Specialization.
 ## What's inside:
 1. Week 1 Programming assignment: Initialization.ipynb, Regularization.ipynb, Gradient+Checking.ipynb
 1. Week 2 Programming assignment: Optimization+methods.ipynb
-1. Week 3 Programming assignment: Tensorflow+Tutorial.ipynb
+1. Week 3 Programming assignment: Tensorflow+Tutorial.ipynb. Dataset: SIGNS dataset (numbers from 0 to 5 in sign language).
 1. Course Certificate: Coursera FQ5ZWF6MU33S.pdf
